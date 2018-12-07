@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appnutricao</string>
+    <string name="bem_vindo">Bem vindo ao Nutritivo App!</string>
+    <string name="digite_seu_nome">Para iniciar, por favor digite seu nome:</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="txtview_digite_seus_dados">Por favor, informe os dados:</string>
+    <string name="dropdown_prompt">Escolha uma categoria:</string>
+
+    <string-array name="dropdown_entries">
+        <item>Sedentário</item>
+        <item>Levemente Ativo</item>
+        <item>Moderadamente Ativo</item>
+        <item>Muito Ativo</item>
+    </string-array>
+</resources>
